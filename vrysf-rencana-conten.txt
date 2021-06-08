@@ -3,5 +3,6 @@ Rencana Konten
 *es6
 *framework javascript
 -fundamental
--video php framework
 -video blog
+-angular
+-reach
