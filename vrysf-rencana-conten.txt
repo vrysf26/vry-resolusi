@@ -2,6 +2,8 @@ Rencana Konten
 -video javscript
 *es6
 *framework javascript
+-laravel
 -fundamental
 -video php framework
 -video blog
+-phyton
