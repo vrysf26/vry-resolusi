@@ -2,5 +2,6 @@ Rencana Konten
 -video javscript
 *es6
 *framework javascript
+-fundamental
 -video php framework
 -video blog
