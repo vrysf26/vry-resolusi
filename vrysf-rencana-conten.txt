@@ -4,7 +4,6 @@ Rencana Konten
 *framework javascript
 -laravel
 -fundamental
--video php framework
 -video blog
 -phyton
 -reach
