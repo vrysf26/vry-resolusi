@@ -1,4 +1,6 @@
 Rencana Konten
 -video javscript
+*es6
+*framework javascript
 -video php framework
 -video blog
